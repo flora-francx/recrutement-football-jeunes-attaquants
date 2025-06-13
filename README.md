@@ -6,7 +6,7 @@ Ce projet a pour objectif d'identifier les jeunes attaquants les plus prometteur
 
 ## 📁 Contenu du dépôt
 
-- `nettoyage_donnees.ipynb` : Notebook Jupyter pour l'exploration, le nettoyage et la préparation des données.
+- `notebook_nettoyage_donnees.ipynb` : Notebook Jupyter pour l'exploration, le nettoyage et la préparation des données.
 - `recrutement_foot.pbix` : Fichier Power BI avec le dashboard interactif.
 - `README.md` : Présentation du projet.
 
