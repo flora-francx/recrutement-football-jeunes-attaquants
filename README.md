@@ -19,9 +19,11 @@ Ce projet a pour objectif d'identifier les jeunes attaquants les plus prometteur
 - Concevoir un **dashboard interactif Power BI** permettant de filtrer par âge, poste, valeur marchande, etc.
 - Visualiser :
   - Les meilleurs profils d'attaquants selon divers critères
-  - Des **radar charts** pour comparer les profils
   - Un **Top 3 dynamique** selon le profil recherché
-
+  - Des **radar charts** pour comparer les profils
+  - Les 5 meilleurs attaquants proposés au service de recrutement
+  - Explorer les statistiques détaillées par joueur
+  
 ---
 
 ## 🛠️ Technologies utilisées
@@ -35,6 +37,8 @@ Ce projet a pour objectif d'identifier les jeunes attaquants les plus prometteur
 ---
 
 ## 📊 Aperçu du dashboard Power BI
+
+![dashboard_preview](https://github.com/user-attachments/assets/5c5c4b38-fab7-4a42-87b9-109cb4bf1cfc)
 
 
 ---
